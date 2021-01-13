@@ -1,6 +1,6 @@
 // Static method are called without instantiate
 
-class Progrmmer{
+class Programmer{
     constructor(type) {
          this.type = type;
     }
@@ -10,4 +10,4 @@ class Progrmmer{
 
     }
 }   
-Progrmmer.php('PHP');
+Programmer.php('PHP');

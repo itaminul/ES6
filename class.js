@@ -1,5 +1,5 @@
 // Class are a template that use for creating object
-class Progrmmer{
+class Programmer{
     constructor(type) {
          this.type = type;
     }
@@ -14,6 +14,6 @@ class Progrmmer{
     }
 }   
 
-let obj = new Progrmmer('I am a javascript progrmmer');
+let obj = new Programmer('I am a javascript programmer');
 obj.javascript();
 obj.php('PHP');
