@@ -8,7 +8,7 @@ class Progrmmer{
         console.log(this.type); //return I am a javascript progrmmer
     }
 
-    php(phpType) {
+    static php(phpType) {
         console.log(`I am a ${phpType} programmer`) // return I am a PHP programmer
 
     }
